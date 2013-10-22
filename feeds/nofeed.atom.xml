@@ -1,5 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>NumFOCUS Foundation</title><link href="http://numfocus.github.io/numfocus.org/" rel="alternate"></link><link href="http://numfocus.github.io/numfocus.org/feeds/nofeed.atom.xml" rel="self"></link><id>http://numfocus.github.io/numfocus.org/</id><updated>2013-07-05T00:00:00+02:00</updated><entry><title>Donations</title><link href="http://numfocus.github.io/numfocus.org/donations.html" rel="alternate"></link><updated>2013-07-05T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-07-05:donations.html</id><summary type="html">&lt;p&gt;NumFOCUS is a 501(c)3 nonprofit in the United States. Your tax deductible
+<feed xmlns="http://www.w3.org/2005/Atom"><title>NumFOCUS Foundation</title><link href="http://numfocus.github.io/numfocus.org/" rel="alternate"></link><link href="http://numfocus.github.io/numfocus.org/feeds/nofeed.atom.xml" rel="self"></link><id>http://numfocus.github.io/numfocus.org/</id><updated>2013-09-18T00:00:00+02:00</updated><entry><title>NumFOCUS Corporate Sponsorship</title><link href="http://numfocus.github.io/numfocus.org/corporate-sponsorship.html" rel="alternate"></link><updated>2013-09-18T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-09-18:corporate-sponsorship.html</id><summary type="html">&lt;div class="section" id="why-sponsor-numfocus"&gt;
+&lt;h2&gt;Why sponsor&amp;nbsp;NumFOCUS?&lt;/h2&gt;
+&lt;p&gt;Sponsoring NumFOCUS puts your company’s name at the forefront of open-source
+scientific software research and development. You will be supporting the tools
+your company depends on for&amp;nbsp;success.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="what-will-your-funds-be-used-for"&gt;
+&lt;h2&gt;What will your funds be used&amp;nbsp;for?&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Implementation of educational programs; such as the John Hunter Technical
+Fellowship and Women’s Technology Workshops and Boot&amp;nbsp;Camps&lt;/li&gt;
+&lt;li&gt;Grants awarded to open-source projects for reproducible research and&amp;nbsp;development&lt;/li&gt;
+&lt;li&gt;An increase in open-source collaborative research tools and&amp;nbsp;documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="what-are-the-benefits-for-your-corporation"&gt;
+&lt;h2&gt;What are the benefits for your&amp;nbsp;corporation?&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Positive publicity and heightened visibility of your products and&amp;nbsp;services&lt;/li&gt;
+&lt;li&gt;Recruiting opportunities enabling you to reach some of the most talented
+developers, engineers, researchers and data scientists in the field. These
+include posting positions on the NumFOCUS sponsors’ job page and access to
+the professional network of our member’s mailing&amp;nbsp;list&lt;/li&gt;
+&lt;li&gt;Opportunities to showcase your company’s innovation and use of open-source
+scientific&amp;nbsp;projects&lt;/li&gt;
+&lt;li&gt;Ability for your technical team to create global connections that spark
+innovation, and professional&amp;nbsp;development&lt;/li&gt;
+&lt;li&gt;Affiliation with the charitable, educational and scientific purposes of&amp;nbsp;NumFOCUS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="sponsor-levels"&gt;
+&lt;h2&gt;Sponsor&amp;nbsp;Levels&lt;/h2&gt;
+&lt;div class="section" id="platinum-100-000"&gt;
+&lt;h3&gt;Platinum&amp;nbsp;$100,000&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Designation as a Platinum Sponsor with corporate logo placement on&amp;nbsp;NumFOCUS.org&lt;/li&gt;
+&lt;li&gt;Profile on NumFOCUS.org and link to your&amp;nbsp;site&lt;/li&gt;
+&lt;li&gt;Preferential placement of listings on Sponsor’s Job&amp;nbsp;Page&lt;/li&gt;
+&lt;li&gt;Ability to post on the member’s mailing&amp;nbsp;list&lt;/li&gt;
+&lt;li&gt;Naming of a sponsored educational workshop series and logo used on all
+promotion of&amp;nbsp;series&lt;/li&gt;
+&lt;li&gt;Use of the NumFOCUS Corporate Sponsor Badge on your website or marketing&amp;nbsp;collateral&lt;/li&gt;
+&lt;li&gt;Opportunity for a representative from one or more of NumFOCUS’ promoted
+projects to give a presentation at your corporate&amp;nbsp;headquarters&lt;/li&gt;
+&lt;li&gt;Recognition and benefits at PyData Conferences for one&amp;nbsp;year&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="gold-50-000"&gt;
+&lt;h3&gt;Gold&amp;nbsp;$50,000&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Designation as a Gold Sponsor with corporate logo placement in sponsor’s
+section on&amp;nbsp;NumFOCUS.org&lt;/li&gt;
+&lt;li&gt;Profile on NumFOCUS.org and link to your&amp;nbsp;site&lt;/li&gt;
+&lt;li&gt;Opportunity to post job listings on the Sponsor’s Job&amp;nbsp;Page&lt;/li&gt;
+&lt;li&gt;Ability to post on the member’s mailing&amp;nbsp;list&lt;/li&gt;
+&lt;li&gt;Use of the NumFOCUS Corporate Sponsor Badge on your website or marketing&amp;nbsp;collateral&lt;/li&gt;
+&lt;li&gt;Opportunity for a representative from one of NumFOCUS’ promoted projects to
+give a presentation at your corporate&amp;nbsp;headquarters&lt;/li&gt;
+&lt;li&gt;Recognition at PyData&amp;nbsp;Conferences&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="silver-25-000"&gt;
+&lt;h3&gt;Silver&amp;nbsp;$25,000&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Designation as a Silver Sponsor with corporate logo placement in sponsor’s
+section on&amp;nbsp;NumFOCUS.org&lt;/li&gt;
+&lt;li&gt;Profile on NumFOCUS.org and link to your&amp;nbsp;site&lt;/li&gt;
+&lt;li&gt;Opportunity to post job listings on the Sponsor’s Job&amp;nbsp;Page&lt;/li&gt;
+&lt;li&gt;Use of the NumFOCUS Corporate Sponsor Badge on your website or marketing&amp;nbsp;collateral&lt;/li&gt;
+&lt;li&gt;Ability to post on the member’s mailing&amp;nbsp;list&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bronze-10-000"&gt;
+&lt;h3&gt;Bronze&amp;nbsp;$10,000&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Designation as a Bronze Sponsor with corporate logo placement in sponsor’s
+section on&amp;nbsp;NumFOCUS.org&lt;/li&gt;
+&lt;li&gt;Profile on NumFOCUS.org and link to your&amp;nbsp;site&lt;/li&gt;
+&lt;li&gt;Opportunity to post job listings on the Sponsor’s Job&amp;nbsp;Page&lt;/li&gt;
+&lt;li&gt;Ability to post to the member’s mailing&amp;nbsp;list&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Ways to Support Open Code and Better Science</title><link href="http://numfocus.github.io/numfocus.org/donations.html" rel="alternate"></link><updated>2013-07-05T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-07-05:donations.html</id><summary type="html">&lt;div class="section" id="donate-to-numfocus"&gt;
+&lt;h2&gt;Donate to&amp;nbsp;NumFOCUS&lt;/h2&gt;
+&lt;p&gt;NumFOCUS is a 501(c)3 nonprofit in the United States. Your tax deductible
 donations go towards funding the following&amp;nbsp;activities:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Sponsor sprints and&amp;nbsp;conferences&lt;/li&gt;
@@ -9,8 +94,87 @@ donations go towards funding the following&amp;nbsp;activities:&lt;/p&gt;
 &lt;li&gt;Work with domain-specific&amp;nbsp;organizations&lt;/li&gt;
 &lt;li&gt;Raise funds from industries using Python and&amp;nbsp;NumPy&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="fiscal-sponsorship"&gt;
+&lt;h2&gt;Fiscal&amp;nbsp;Sponsorship&lt;/h2&gt;
+&lt;p&gt;In our efforts to promote and support high-level languages, reproducible
+scientific research and open-source development, NumFOCUS offers a Fiscal
+Sponsorship program.  The Fiscal Sponsorship program is a way for for donors to
+financially contribute toward the progress of a NumFOCS affiliated project
+while also receiving benefits of contributing to 501(c)3 charity.  In our
+Fiscal Sponsorship program, the nonexempt project must act so as to further the
+exempt purposes of NumFOCUS.  Further details regarding corporate sponsorship
+are available at our &lt;a class="reference external" href="http://numfocus.github.io/numfocus.org/corporate-sponsorship.html"&gt;corporate sponsorship page&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Fiscal Sponsorship is an arrangement between a 501(c)(3) public charity
+and a project (that does not have that tax status) in which, typically, the
+charity receives and expends funds to advance the charitable work of the
+project while retaining discretion and control over the&amp;nbsp;funds.&lt;/p&gt;
+&lt;p&gt;-Eric Gorovitz, associate, Adler &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;Colvin&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Please look over our Fiscal Sponsorship Agreement and let us know if you have
+questions or would like additional information by contacting us at:
+&lt;a class="reference external" href="mailto:info&amp;#64;numfocus.org"&gt;info&amp;#64;numfocus.org&lt;/a&gt;.  You can find the source for our fiscal sponsorship
+document &lt;a class="reference external" href="https://github.com/numfocus/fiscal-sponsorship"&gt;here&lt;/a&gt;.  Feel free to leave comments, feedback, or issue pull&amp;nbsp;requests.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="how-to-donate"&gt;
+&lt;h2&gt;How to&amp;nbsp;Donate&lt;/h2&gt;
+&lt;p&gt;There are many ways to give. We have tried to make it as simple as
+possible to donate to NumFOCUS. You can use any of the following payment&amp;nbsp;providers.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;&lt;strong&gt;PayPal&lt;/strong&gt; -&amp;nbsp;(2.90% + $0.30 /&amp;nbsp;transaction)&lt;/dt&gt;
+&lt;dd&gt;&lt;div class="first last"&gt;&lt;form action="https://www.paypal.com/cgi-bin/webscr" method="post"&gt;
+  &lt;input type="hidden" name="cmd" value="_s-xclick"/&gt;
+  &lt;input type="hidden" name="hosted_button_id" value="HK2N4RM5NMDZC"/&gt;
+  &lt;input type="image"
+         src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"
+         border="0"
+         name="submit"
+         alt="PayPal - The safer, easier way to pay online!"/&gt;&lt;br /&gt;
+  &lt;img alt=""
+        border="0"
+        src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
+        width="1"
+        height="1"/&gt;
+&lt;/form&gt;&lt;/div&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;&lt;strong&gt;WePay&lt;/strong&gt; - (2.90% + $0.30 /&amp;nbsp;transaction)&lt;/dt&gt;
+&lt;dd&gt;&lt;p class="first last"&gt;&lt;a class="reference external" href="https://www.wepay.com/donations/78917"&gt;Donate with&amp;nbsp;WePay&lt;/a&gt;&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;&lt;strong&gt;Dwolla&lt;/strong&gt; - ($0.25 / transaction) &amp;#8212; No credit cards and &lt;span class="caps"&gt;U.S.&lt;/span&gt; banks&amp;nbsp;only&lt;/dt&gt;
+&lt;dd&gt;&lt;div class="first last"&gt;&lt;input onclick="location.href='https://www.dwolla.com/hub/numfocus?memo=General%20Fund';"
+       type="image"
+       src="https://www.dwolla.com/content/images/btn-donate-with-dwolla.png" /&gt;&lt;/div&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;&lt;strong&gt;Bitcoin&lt;/strong&gt; - (1% /&amp;nbsp;transaction)&lt;/dt&gt;
+&lt;dd&gt;&lt;div class="first last"&gt;&lt;form action="https://bitpay.com/checkout" method="post" &gt;
+  &lt;input type="hidden" name="action" value="checkout" /&gt;
+  &lt;input type="hidden" name="posData" value="" /&gt;
+  &lt;input type="hidden" name="data" value="RB/WxxHHgnPMjN0YyUijaAt3zS8ANaE0aoaNSiGxrBEZK3IrtDUEDF44QQU+nQVgofeuxCUMsWkjuBlAVXIXF1a4CI4+CfwrPFL4HOMB1BqTkeWVijGZiFVT2/O5fjc/34NIkVaftlLW8NHsS/m5p+5+5t8VGJ+OK/NOT9qz8d2pzMv5EcBUwQ8Q31sNvuZSzvwamDtT+51w2nNCVu6r+FRjdrErOPoI7yU4IViv+Numu55KoL3urtm4Id1zOHw6" /&gt;
+  &lt;input type="image" src="https://bitpay.com/img/donate-md.png" border="0" name="submit" alt="BitPay, the easy way to pay with bitcoins." &gt;
+&lt;/form&gt;&lt;/div&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;&lt;strong&gt;Checks&lt;/strong&gt; -&amp;nbsp;&amp;nbsp;Make payable to&amp;nbsp;NumFOCUS and mail&amp;nbsp;to:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+NumFOCUS
+P.O. Box 90596
+Austin, TX 78709
+&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Your personal contribution is greatly&amp;nbsp;appreciated!&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
 </summary></entry><entry><title>Contact</title><link href="http://numfocus.github.io/numfocus.org/contact.html" rel="alternate"></link><updated>2013-07-04T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-07-04:contact.html</id><summary type="html">&lt;p&gt;Email should be send to:
-&lt;a class="reference external" href="mailto:admin&amp;#64;numfocus.org"&gt;admin&amp;#64;numfocus.org&lt;/a&gt;&lt;/p&gt;
+&lt;a class="reference external" href="mailto:info&amp;#64;numfocus.org"&gt;info&amp;#64;numfocus.org&lt;/a&gt;&lt;/p&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Please address written correspondance to:&lt;/div&gt;
 &lt;div class="line-block"&gt;
@@ -153,7 +317,7 @@ conferences on a variety of science &lt;span class="amp"&gt;&amp;amp;&lt;/span&g
 &lt;/div&gt;
 &lt;div class="section" id="andy-terrel"&gt;
 &lt;h3&gt;Andy&amp;nbsp;Terrel&lt;/h3&gt;
-&lt;img alt="static/images/andy-terrel-portrait200px2.jpg" src="static/images/andy-terrel-portrait200px2.jpg" style="height: 150px;" /&gt;
+&lt;img alt="Andy Terrel" src="static/images/andy-terrel-portrait200px2.jpg" style="height: 150px;" /&gt;
 &lt;p&gt;Andy Terrel received his PhD in computer science at the University of Chicago
 in 2010 and is currently a staff researcher at the Texas Advance Computing
 Center at the Univerisity of Texas at Austin.  His major emphasis of research
@@ -173,7 +337,7 @@ scientific computing&amp;nbsp;journals.&lt;/p&gt;
 &lt;h2&gt;Core&amp;nbsp;Projects&lt;/h2&gt;
 &lt;div class="section" id="numpy"&gt;
 &lt;h3&gt;&lt;a class="reference external" href="http://numpy.scipy.org/"&gt;NumPy&lt;/a&gt;&lt;/h3&gt;
-&lt;img alt="static/images/NumPY.png" src="static/images/NumPY.png" style="height: 75px;" /&gt;
+&lt;img alt="NumPy logo" src="static/images/NumPY.png" style="height: 75px;" /&gt;
 &lt;p&gt;NumPy is the fundamental package needed for scientific computing with Python.
 Besides its obvious scientific uses, NumPy can also be used as an efficient
 multi-dimensional container of generic data. Arbitrary data-types can be
@@ -186,7 +350,7 @@ version 1.6.1 - &lt;a class="reference external" href="http://sourceforge.net/pr
 &lt;/div&gt;
 &lt;div class="section" id="scipy"&gt;
 &lt;h3&gt;&lt;a class="reference external" href="http://www.scipy.org/"&gt;SciPy&lt;/a&gt;&lt;/h3&gt;
-&lt;img alt="static/images/scipy.png" src="static/images/scipy.png" style="height: 75px;" /&gt;
+&lt;img alt="SciPy logo" src="static/images/scipy.png" style="height: 75px;" /&gt;
 &lt;p&gt;SciPy is open-source software for mathematics, science, and engineering. It is
 also the name of a very popular conference on scientific programming with
 Python. The SciPy library depends on NumPy, which provides convenient and fast
@@ -196,20 +360,20 @@ as routines for numerical integration and&amp;nbsp;optimization.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="matplotlib"&gt;
 &lt;h3&gt;&lt;a class="reference external" href="http://matplotlib.sourceforge.net/"&gt;Matplotlib&lt;/a&gt;&lt;/h3&gt;
-&lt;img alt="static/images/matplotlib.png" src="static/images/matplotlib.png" style="height: 75px;" /&gt;
+&lt;img alt="Matplotlib logo" src="static/images/matplotlib.png" style="height: 75px;" /&gt;
 &lt;p&gt;2D plotting library for Python that produces high quality figures that can be
 used in various hardcopy and interactive environments. matplolib is
 compatiable with python scripts and the python and ipython&amp;nbsp;shells.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="ipython"&gt;
 &lt;h3&gt;&lt;a class="reference external" href="http://ipython.org/"&gt;IPython&lt;/a&gt;&lt;/h3&gt;
-&lt;img alt="static/images/ipython.png" src="static/images/ipython.png" style="height: 70px;" /&gt;
+&lt;img alt="IPython logo" src="static/images/ipython.png" style="height: 70px;" /&gt;
 &lt;p&gt;High quality open source python shell that includes tools for high level and
 interactive parallel&amp;nbsp;computing.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="sympy"&gt;
 &lt;h3&gt;&lt;a class="reference external" href="http://SymPy.org/en/index.html"&gt;SymPy&lt;/a&gt;&lt;/h3&gt;
-&lt;img alt="static/images/SymPy2.jpg" src="static/images/SymPy2.jpg" style="height: 75px;" /&gt;
+&lt;img alt="SymPy logo" src="static/images/SymPy2.jpg" style="height: 75px;" /&gt;
 &lt;p&gt;SymPy is a Python library for symbolic mathematics. It aims to become a
 full-featured computer algebra system (&lt;span class="caps"&gt;CAS&lt;/span&gt;) while keeping the code as simple as
 possible in order to be comprehensible and easily extensible. SymPy is written
@@ -220,7 +384,7 @@ entirely in Python and does not require any external&amp;nbsp;libraries.&lt;/p&g
 &lt;h2&gt;Other&amp;nbsp;Projects&lt;/h2&gt;
 &lt;div class="section" id="cython"&gt;
 &lt;h3&gt;&lt;a class="reference external" href="http://cython.org/"&gt;Cython&lt;/a&gt;&lt;/h3&gt;
-&lt;img alt="static/images/cython.png" src="static/images/cython.png" style="height: 75px;" /&gt;
+&lt;img alt="Cython logo" src="static/images/cython.png" style="height: 75px;" /&gt;
 &lt;p&gt;Cython is a language based on Pyrex that makes writing C extensions for Python
 as easy as writing them in Python itself. Cython supports calling C functions
 and declaring C types on variables and class attributes, allowing the compiler
@@ -228,13 +392,13 @@ to generate very efficient C code from Cython&amp;nbsp;code.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="pandas"&gt;
 &lt;h3&gt;&lt;a class="reference external" href="http://pandas.pydata.org/"&gt;pandas&lt;/a&gt;&lt;/h3&gt;
-&lt;img alt="static/images/pandas.png" src="static/images/pandas.png" style="height: 75px;" /&gt;
+&lt;img alt="Pandas logo" src="static/images/pandas.png" style="height: 75px;" /&gt;
 &lt;p&gt;pandas is an open source, &lt;span class="caps"&gt;BSD&lt;/span&gt;-licensed library providing high-performance,
 easy-to-use data structures and data analysis tools for the Python programming&amp;nbsp;language.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="pytables"&gt;
 &lt;h3&gt;&lt;a class="reference external" href="http://pytables.github.com/"&gt;PyTables&lt;/a&gt;&lt;/h3&gt;
-&lt;img alt="static/images/logo-pytables-small.png" src="static/images/logo-pytables-small.png" style="height: 75px;" /&gt;
+&lt;img alt="PyTables logo" src="static/images/logo-pytables-small.png" style="height: 75px;" /&gt;
 &lt;p&gt;PyTables is a package for managing hierarchical datasets and designed to
 efficiently and easily cope with extremely large amounts of data. PyTables is
 built on top of the &lt;span class="caps"&gt;HDF5&lt;/span&gt; library, using the Python language and the NumPy
@@ -245,26 +409,26 @@ extremely easy to use tool for very large amounts of data.
 &lt;/div&gt;
 &lt;div class="section" id="scikit-image"&gt;
 &lt;h3&gt;&lt;a class="reference external" href="http://scikit-image.org/"&gt;scikit-image&lt;/a&gt;&lt;/h3&gt;
-&lt;img alt="static/images/scikitsimage.png" src="static/images/scikitsimage.png" style="height: 75px;" /&gt;
+&lt;img alt="Scikit-Image logo" src="static/images/scikitsimage.png" style="height: 75px;" /&gt;
 &lt;p&gt;Free high-quality and peer-reviewed volunteer produced collection of algorithms
 for image&amp;nbsp;processing.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="scikit-learn"&gt;
 &lt;h3&gt;&lt;a class="reference external" href="http://scikit-learn.org/stable/"&gt;scikit-learn&lt;/a&gt;&lt;/h3&gt;
-&lt;img alt="static/images/scikitslearn.png" src="static/images/scikitslearn.png" style="height: 75px;" /&gt;
+&lt;img alt="Scikit-learn logo" src="static/images/scikitslearn.png" style="height: 75px;" /&gt;
 &lt;p&gt;Module designed for scientific pythons that provides accesible solutions to
 machine learning&amp;nbsp;problems.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="scikits-statsmodels"&gt;
 &lt;h3&gt;&lt;a class="reference external" href="http://scikits.appspot.com/statsmodels"&gt;Scikits-Statsmodels&lt;/a&gt;&lt;/h3&gt;
-&lt;img alt="static/images/scikits.png" src="static/images/scikits.png" style="height: 75px;" /&gt;
+&lt;img alt="Scikits-Statsmodels logo" src="static/images/scikits.png" style="height: 75px;" /&gt;
 &lt;p&gt;Statsmodels is a Python package that provides a complement to scipy for
 statistical computations including descriptive statistics and estimation of
 statistical&amp;nbsp;models.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="spyder"&gt;
 &lt;h3&gt;&lt;a class="reference external" href="http://code.google.com/p/spyderlib/"&gt;Spyder&lt;/a&gt;&lt;/h3&gt;
-&lt;img alt="static/images/spyder.png" src="static/images/spyder.png" style="height: 75px;" /&gt;
+&lt;img alt="Spyder logo" src="static/images/spyder.png" style="height: 75px;" /&gt;
 &lt;p&gt;Interactive development environment for Python that features advanced editing,
 interactive testing, debugging and introspection capabilities, as well as a
 numerical computing environment made possible through the support of Ipython,
@@ -272,7 +436,7 @@ NumPy, SciPy, and&amp;nbsp;matplotlib.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="theano"&gt;
 &lt;h3&gt;&lt;a class="reference external" href="http://deeplearning.net/software/theano/#"&gt;Theano&lt;/a&gt;&lt;/h3&gt;
-&lt;img alt="static/images/theano_logo_allblue_200x46.png" src="static/images/theano_logo_allblue_200x46.png" style="height: 50px;" /&gt;
+&lt;img alt="Theano logo" src="static/images/theano_logo_allblue_200x46.png" style="height: 50px;" /&gt;
 &lt;p&gt;Theano is a Python library that allows you to define, optimize, and evaluate
 mathematical expressions involving multi-dimensional arrays&amp;nbsp;efficiently.&lt;/p&gt;
 &lt;/div&gt;
@@ -283,7 +447,7 @@ mathematical expressions involving multi-dimensional arrays&amp;nbsp;efficiently
 following projects.  For&amp;nbsp;information contact us at: &lt;a class="reference external" href="mailto:info&amp;#64;NumFOCUS.org"&gt;info&amp;#64;NumFOCUS.org&lt;/a&gt;.&lt;/p&gt;
 &lt;div class="section" id="sage"&gt;
 &lt;h3&gt;&lt;a class="reference external" href="http://www.sagemath.org/"&gt;Sage&lt;/a&gt;&lt;/h3&gt;
-&lt;img alt="static/images/sage.png" src="static/images/sage.png" style="height: 75px;" /&gt;
+&lt;img alt="Sage logo" src="static/images/sage.png" style="height: 75px;" /&gt;
 &lt;p&gt;Open source mathematics sofware system that combines existing open-source
 packages into a Python-based&amp;nbsp;interface.&lt;/p&gt;
 &lt;/div&gt;
@@ -294,7 +458,7 @@ and study of the structure, dynamics, and functions of complex&amp;nbsp;networks
 &lt;/div&gt;
 &lt;div class="section" id="python-x-y"&gt;
 &lt;h3&gt;&lt;a class="reference external" href="http://code.google.com/p/pythonxy/wiki/Welcome"&gt;Python(X,Y)&lt;/a&gt;&lt;/h3&gt;
-&lt;img alt="static/images/pythonxy.png" src="static/images/pythonxy.png" style="height: 75px;" /&gt;
+&lt;img alt="Python(X,Y) logo" src="static/images/pythonxy.png" style="height: 75px;" /&gt;
 &lt;p&gt;Free scientific and engineering development software used for numerical
 computations, and analysis and visualization of data using the Python
 programmimg&amp;nbsp;language.&lt;/p&gt;
@@ -302,8 +466,8 @@ programmimg&amp;nbsp;language.&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>Joining NumFOCUS</title><link href="http://numfocus.github.io/numfocus.org/membership.html" rel="alternate"></link><updated>2013-03-13T00:00:00+01:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-03-13:membership.html</id><summary type="html">&lt;div class="section" id="becoming-a-member-of-numfocus"&gt;
 &lt;h2&gt;Becoming a Member of&amp;nbsp;NumFOCUS&lt;/h2&gt;
-&lt;p&gt;Last year the NumFOCUS Foundation was formed to &amp;#8220;promote the use of
-accessible and reproducible computing in science and technology.&amp;#8221; Much
+&lt;p&gt;The NumFOCUS Foundation was formed in 2012 to &amp;quot;promote the use of
+accessible and reproducible computing in science and technology.&amp;quot; Much
 of this effort centers around the use of Python and it’s&amp;nbsp;tools.&lt;/p&gt;
 &lt;p&gt;NumFOCUS is excited to announce membership is now open. The involvement of the
 community is vital in helping to help raise the visibility of Python and its
@@ -438,51 +602,8 @@ or all of these great codes at&amp;nbsp;once!&lt;/p&gt;
 United&amp;nbsp;States.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;There are many ways to give. We have tried to make it as simple as
-possible to donate to NumFOCUS. You can use any of the following payment&amp;nbsp;providers.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;dl class="first docutils"&gt;
-&lt;dt&gt;&lt;strong&gt;PayPal&lt;/strong&gt; -&amp;nbsp;(2.90% + $0.30 /&amp;nbsp;transaction)&lt;/dt&gt;
-&lt;dd&gt;&lt;div class="first last"&gt;&lt;form action="https://www.paypal.com/cgi-bin/webscr" method="post"&gt;
-  &lt;input type="hidden" name="cmd" value="_s-xclick"/&gt;
-  &lt;input type="hidden" name="hosted_button_id" value="HK2N4RM5NMDZC"/&gt;
-  &lt;input type="image"
-         src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"
-         border="0"
-         name="submit"
-         alt="PayPal - The safer, easier way to pay online!"/&gt;&lt;br /&gt;
-  &lt;img alt=""
-        border="0"
-        src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
-        width="1"
-        height="1"/&gt;
-&lt;/form&gt;&lt;/div&gt;&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- Google checkout goes here --&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;dl class="first docutils"&gt;
-&lt;dt&gt;&lt;strong&gt;WePay&lt;/strong&gt; - (2.90% + $0.30 /&amp;nbsp;transaction)&lt;/dt&gt;
-&lt;dd&gt;&lt;p class="first last"&gt;&lt;a class="reference external" href="https://www.wepay.com/donations/78917"&gt;Donate with&amp;nbsp;WePay&lt;/a&gt;&lt;/p&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;dl class="first docutils"&gt;
-&lt;dt&gt;&lt;strong&gt;Dwolla&lt;/strong&gt; - ($0.25 / transaction) &amp;#8212; No credit cards and &lt;span class="caps"&gt;U.S.&lt;/span&gt; banks&amp;nbsp;only&lt;/dt&gt;
-&lt;dd&gt;&lt;div class="first last"&gt;&lt;input onclick="location.href='https://www.dwolla.com/hub/numfocus?memo=General%20Fund';"
-       type="image"
-       src="https://www.dwolla.com/content/images/btn-donate-with-dwolla.png" /&gt;&lt;/div&gt;&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p class="first"&gt;&lt;strong&gt;Checks&lt;/strong&gt; -&amp;nbsp;&amp;nbsp;Make payable to&amp;nbsp;NumFOCUS and mail&amp;nbsp;to:&lt;/p&gt;
-&lt;pre class="literal-block"&gt;
-NumFOCUS
-P.O. Box 90596
-Austin, TX 78709
-&lt;/pre&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Your personal contribution is greatly&amp;nbsp;appreciated!&lt;/strong&gt;&lt;/p&gt;
+possible to donate to NumFOCUS.  Please see the links at the bottom of the
+&lt;a class="reference external" href="http://numfocus.github.io/numfocus.org/donations.html"&gt;donations page&lt;/a&gt;.  Our full bylaws are &lt;a class="reference external" href="http://numfocus.github.io/numfocus.org/static/pdfs/bylaws.pdf"&gt;available for download&lt;/a&gt;.&lt;/p&gt;
 </summary></entry><entry><title>Continuum Analytics</title><link href="http://numfocus.github.io/numfocus.org/continuum-analytics.html" rel="alternate"></link><updated>2010-01-01T00:00:00+01:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2010-01-01:continuum-analytics.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://continuum.io"&gt;&lt;img alt="Continuum Analytics" src="http://numfocus.github.io/numfocus.org/static/images/continuum_500px_w_logo.png" style="height: 100px;" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Founded by the creators of NumPy, SciPy, and Chaco, Continuum offers
 Python-based tools and consulting services for the analysis, management and
@@ -500,4 +621,6 @@ more than 100 countries with one of the most comprehensive global product
 platforms available. We have been helping our clients to do business and manage
 their wealth for more than 200 years. Our business has been built upon our core
 principle of putting our clients’ interests&amp;nbsp;first.&lt;/p&gt;
+</summary><category term="Platinum Level"></category></entry><entry><title>Microsoft</title><link href="http://numfocus.github.io/numfocus.org/microsoft.html" rel="alternate"></link><updated>1900-01-01T00:00:00+00:09</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,1900-01-01:microsoft.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;&lt;img alt="Microsoft" src="http://numfocus.github.io/numfocus.org/static/images/microsoft-logo.jpg" style="height: 100px;" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft is a proud sponsor of NumFOCUS and&amp;nbsp;IPython.&lt;/p&gt;
 </summary><category term="Platinum Level"></category></entry></feed>
